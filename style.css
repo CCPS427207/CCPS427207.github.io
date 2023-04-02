@@ -5,11 +5,12 @@ p{
 
 ul{
   margin: 0 auto;
-  color: #a09e9d;
+  padding: 0;
 }
 
 ol{
-  color: #01839a;
+  background: #99dbff;
+  list-style-type: upper-roman;
 }
 
 h1{
@@ -18,16 +19,16 @@ h1{
 }
 
 header{
-  : ;
-  : ;
+  color: #a09e9d;
+  font-weight: 700;
 }
 
 body{
   background-color: #344043;
-  : ;
+  margin: 0;
 }
  
 footer{
-  : ;
-  : ;
+  color: #01839a;
+  padding: 10px;
 }
